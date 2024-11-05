@@ -70,6 +70,9 @@ schema electrică (Wokwi, TinkerCAD etc.)
 (2p) Începând cu această temă, va trebui să respectați un coding style. Acest lucru va face codul mai ușor de citit și de depanat. Nu este necesar să respectați fiecare regulă exact ca în documentul trimis, dar codul trebuie să fie lizibil și consecvent. Găsiți aici regulile pentru coding style.
 
 #Schema 
+https://ibb.co/prrxRGh
+
+#Montaj 
 https://ibb.co/197NFt9
 
 #Video
